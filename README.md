@@ -1,5 +1,6 @@
 
 # FruitLens
+![fruitlens Logo](fruitlens.png)
 
 ## Team Information
 - **Team ID:** C241-PS232
