@@ -1,4 +1,3 @@
-# FruitLens
 ![fruitlens Logo](fruitlens.png)
 
 ## About FruitLens
